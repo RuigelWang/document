@@ -9,9 +9,11 @@ Authorization     授权
 Verify 验证（证明远程）
 引用自己缩写
 3)	题目下的学校
+
 第一章 Abstract
 了解大意
 大概步骤：
+
 a)	概述问题背景（给出问题）
 So->hence->therefore
 Malicious    恶意的
@@ -20,13 +22,16 @@ Inject   注入
 Method->approach
 Show->perform
 Use->deploy   布署
+
 b)	说出自己做了啥
 Propose
 Implement
 Tamper->入侵系统
 With->by using
 Proof… / unti-… 抗…的
+
 c)	内容（做了的）
+
 第二章 Introduction
 详细问题
 a)	背景
